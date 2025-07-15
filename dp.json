@@ -1,0 +1,19 @@
+{
+  "photos": [
+    {
+      "id": 1,
+      "title": "Photo 1",
+      "url": "https://github.com/user-attachments/assets/7a872f7b-5308-478a-a01e-1a35cf4e22bc"
+    },
+    {
+      "id": 2,
+      "title": "Photo 2",
+      "url": "https://github.com/user-attachments/assets/70dee004-de20-49a1-84e3-cd12192fe3b0"
+    },
+    {
+      "id": 3,
+      "title": "Photo 3",
+      "url": "https://github.com/user-attachments/assets/9fa78518-fce3-4f3d-a7d5-6ebf1179036e"
+    }
+  ]
+}
